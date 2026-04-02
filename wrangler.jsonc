@@ -24,4 +24,7 @@
       "preview_bucket_name": "woodveneer-emdash-media"
     }
   ],
+  "observability": {
+    "enabled": true
   }
+}
